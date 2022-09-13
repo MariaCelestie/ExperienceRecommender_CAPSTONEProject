@@ -1,4 +1,4 @@
-# ExperienceRecommender_CAPSTONE
+# ExperienceRecommender_CAPSTONEProject
 
 In this project, we aim to build a web application that is capable of recommending customized work experience portfolio. This is implemented by mining data from various public job portals and then using machine learning algorithms to personalize this data for the specific job role. This application is then hosted on AWS following the devops practices. Agile method will be used throughout the project lifecycle.
 
